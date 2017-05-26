@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Akhilesh%20yadav/Documents/NetBeansProjects/DialogService/src/java/com/biz/service/IDialogService.java</file>
+            <file>file:/C:/Users/Akhilesh%20yadav/Documents/NetBeansProjects/DialogService/src/java/config.properties</file>
+            <file>file:/C:/Users/Akhilesh%20yadav/Documents/NetBeansProjects/DialogService/web/index.jsp</file>
+            <file>file:/C:/Users/Akhilesh%20yadav/Documents/NetBeansProjects/DialogService/src/java/com/biz/mongo/MongoDBConnection.java</file>
+            <file>file:/C:/Users/Akhilesh%20yadav/Documents/NetBeansProjects/DialogService/src/java/com/biz/model/SkillFlowContext.java</file>
+            <file>file:/C:/Users/Akhilesh%20yadav/Documents/NetBeansProjects/DialogService/src/java/com/biz/integration/NLPInterface.java</file>
+            <file>file:/C:/Users/Akhilesh%20yadav/Documents/NetBeansProjects/DialogService/src/java/com/biz/integration/API_AiInterface.java</file>
+            <file>file:/C:/Users/Akhilesh%20yadav/Documents/NetBeansProjects/DialogService/src/java/com/biz/service/DialogServiceImpl.java</file>
+            <file>file:/C:/Users/Akhilesh%20yadav/Documents/NetBeansProjects/DialogService/src/java/com/biz/controller/DialogServiceApiController.java</file>
+        </group>
+    </open-files>
+</project-private>
